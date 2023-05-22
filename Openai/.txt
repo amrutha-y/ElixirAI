@@ -1,0 +1,11 @@
+OpenAI responded for Prompt: using open a I write a letter 
+
+
+
+
+Dear [Name],
+
+[Begin main body of your letter here]
+
+Sincerely,
+[Your Name]
